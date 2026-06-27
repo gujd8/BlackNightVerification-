@@ -5,7 +5,7 @@
 By utilizing Black Night Scanner inside your Discord server, you agree to comply with the following Terms of Service:
 
 ### 1. Verification Service Usage
-* Black Night is a dedicated utility designed solely to verify user accounts by retrieving their official names from Roblox and updating their server nicknames in Discord.
+*Black Night scanner is a dedicated utility designed solely to verify user accounts by retrieving their official names from Roblox and updating their server nicknames in Discord.
 * The bot checks the current member directory to ensure a requested name is not duplicated before applying the change.
 
 ### 2. Acceptable Use
