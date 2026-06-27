@@ -1,4 +1,4 @@
-# Terms of Service for Black Night Scanner
+# Terms of Service for BlackNightVerification 
 
 **Last Updated: June 2026**
 
